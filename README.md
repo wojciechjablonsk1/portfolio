@@ -48,7 +48,7 @@ bool inverseKinematics(float x, float y, float z,
     return true;
 }
 ```
-
+![Robot](/assets/img/Rob.jpg)
 ---
 
 ## CAD & Mechanical Design
@@ -62,8 +62,6 @@ Full mechanical design solving buckling, thread selection, torque analysis, and 
 - **Design features:** free rotation of the collar, dowel-pin connections, body plug, retractable handle, safety factor built into all dimensions
 
 ![Podn](/assets/img/Podn.png)
-![PodnDok](/assets/img/PodnDok.png)
-![PodnTD](/assets/img/PodnTD.png)
 ### Reduction Gearbox
 Cylindrical gear reducer, sized for a 12 kW / 1,500 rpm input at 1.4 overload factor.
 
@@ -72,6 +70,7 @@ Cylindrical gear reducer, sized for a 12 kW / 1,500 rpm input at 1.4 overload fa
 - **Bearings selected:** input 6309 (Cd 53 kN), output 6311 (Cd 71.5 kN)
 - **Design features:** dipstick port, oil drain port, keyed shaft connections, sealing provisions, seal-removal access holes
 
+![Redu](/assets/img/redu.png)
 ---
 
 ## Simulation & FEA
@@ -100,8 +99,9 @@ Cylindrical gear reducer, sized for a 12 kW / 1,500 rpm input at 1.4 overload fa
 ## Programming & Data
 
 - Microcontroller programming on Intel 8080 (assembly, BCD counters) and modern C/C++ (robot control libraries)
+![8080](/assets/img/assembly8080.png)
 - Missing-data approximation using Excel-based statistical methods and VBA macros
-
+![Andrews](/assets/img/Andrews.png)
 ---
 
 ## Technical Skills
