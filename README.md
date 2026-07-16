@@ -1,9 +1,3 @@
----
-layout: single
-title: "Portfolio"
-author_profile: true
----
-
 # Engineering Portfolio
 
 Automation & Robotics Engineer specializing in **mechatronic design, embedded control systems, and manufacturing process engineering** — from CAD/CAM through simulation to working hardware.
