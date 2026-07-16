@@ -1,8 +1,3 @@
----
-layout: single
-title: "Portfolio"
-author_profile: true
----
 
 # Engineering Portfolio
 
