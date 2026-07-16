@@ -61,8 +61,9 @@ Full mechanical design solving buckling, thread selection, torque analysis, and 
 - **Key calculations:** torque at the main screw connection = 147,683.87 N·mm; friction torque at the collar-insert interface = 77,518.52 N·mm
 - **Design features:** free rotation of the collar, dowel-pin connections, body plug, retractable handle, safety factor built into all dimensions
 
-![Podn](/assets/img/podn.png) ![PodnDok](/assets/img/podndok.png)
-![PodnTD](/assets/img/podntd.png)
+![Podn](/assets/img/Podn.png)
+![PodnDok](/assets/img/PodnDok.png)
+![PodnTD](/assets/img/PodnTD.png)
 ### Reduction Gearbox
 Cylindrical gear reducer, sized for a 12 kW / 1,500 rpm input at 1.4 overload factor.
 
