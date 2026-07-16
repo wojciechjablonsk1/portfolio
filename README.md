@@ -80,7 +80,7 @@ Main areas of study:
 
 ## 6-DOF Robotic Arm
 
-[GitHub Repository](https://github.com/wojciechjablonsk1/robotic-arm-6dof-)
+[GitHub Repository](https://github.com/wojciechjablonsk1/robotic-arm-6dof)
 
 A complete mechatronic prototype developed as my engineering thesis project.
 
@@ -116,6 +116,8 @@ Designed and developed a six-degree-of-freedom robotic arm combining mechanical 
 
 LinkedIn: [your LinkedIn]
 
-Portfolio: https://wojciechjablonsk1.github.io/
+[Main page](https://wojciechjablonsk1.github.io/)
 
 Email: woj.jablo@gmail.com
+
+[GitHub ](https://github.com/wojciechjablonsk1/)
