@@ -151,4 +151,4 @@ Robotics · Mechatronics · Embedded systems · Industrial automation · Autonom
 
 📍 Warsaw, Poland · ✉️ woj.jablo@gmail.com · 🔗 [LinkedIn](YOUR_LINKEDIN) · 🔗 [GitHub](https://github.com/wojciechjablonsk1)
 
-📄 [Download full technical portfolio (PDF)](/assets/PORTFOLIO TECHNICZNE.pdf)
+📄 [Download full technical portfolio (PDF)](/assets/PORTFOLIO_TECHNICZNE.pdf)
